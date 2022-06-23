@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @nicollynic
+- 👋 Hi, I’m **@nicollynic**
 - 👀 I’m interested in  aprender
 - 🌱 I’m currently learning  materias
-- 📫 How to reach me  nicolly.nobrega@escola.pr.gov.br
+- 📫 How to reach me  [email](nicolly.nobrega@escola.pr.gov.br)
